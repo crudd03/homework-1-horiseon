@@ -10,7 +10,7 @@ Changelog:
 * Fixed 'Search Engine Optimization' link
 * Included 'alt' tags to all images for accessibility
 * Included comments in both HTML and CSS files that outline discernable sections
-* Consolidated HTML classes and CSS rules to reduce duplicate code in the CSS file
+* Consolidated HTML classes and CSS selectors/properties to reduce duplicate code in the CSS file
 * Removed an h2 header in the footer (as it wasn't technically a header), while preserving CSS formatting for the applicable text
 
 Screenshot:
